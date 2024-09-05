@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Edu16032007/Edu16032007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Boas vindas ao meu perfil 💙💙
 
-Here are some ideas to get you started:
+Meu nome é Carlos Eduardo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando na [Alura](www.alura.com.br)
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+
+0000108693894xsp@al.educacao.sp.gov.br
+
+![](https://www.bing.com/th/id/OGC.a4e4a17be63d294f14a10f31b7ad1660?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fJIX9t2j0ZTN9S%2fgiphy.gif&ehk=h%2bO6rjpSLjoJXWHzGh8QTkndpAyhoeJFuQe%2bzLna0ag%3d)
